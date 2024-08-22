@@ -1,1 +1,1 @@
-# Makor-Projects
+# Major-Projects
